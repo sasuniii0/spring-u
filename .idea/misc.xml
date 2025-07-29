@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/08-spring security/demoSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-02-thymeleaf-demo-employees-delete-alternate-solution-post-all-data/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-01-thymeleaf-demo-employees-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/03-02-thymeleaf-demo-employees-update-alternate-solution-post-all-data/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/03-01-thymeleaf-demo-employees-update/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/02-thymeleaf-demo-employees-add/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-list/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/20-validationdemo-custom-validation-rule/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/19-validationdemo-handle-strings-for-integer-fields/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/18-validationdemo-make-integer-fields-required/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/17-validationdemo-regular-expressions/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/16-validationdemo-number-ranges/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/15-validationdemo-init-binder-trim/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/14-validationdemo-required-fields/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/13-form-data-binding-checkboxes-read-from-props-file/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/12-form-data-binding-checkboxes-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/11-form-data-binding-radio-buttons-read-from-props-file/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/10-form-data-binding-radio-buttons-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/09-form-data-binding-dropdown-list-read-from-props-file/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/08-form-data-binding-dropdown-list-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/07-form-data-binding-textfields/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/06-getmapping-and-postmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/05-binding-request-params/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/04-adding-data-to-the-model/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/03-reading-html-form-data/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/02-thymeleafdemo-helloworld-css/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymeleafdemo-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/07-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/06-spring-boot-rest-security-jdbc-bcrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/05-spring-boot-rest-security-jdbc-plain-text/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/04-spring-boot-rest-security-restrict-access-based-on-roles-patch/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/03-spring-boot-rest-security-restrict-access-based-on-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
