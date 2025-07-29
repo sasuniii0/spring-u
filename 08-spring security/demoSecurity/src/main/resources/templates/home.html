@@ -15,10 +15,20 @@
   <br><br>
   <hr>
 
-  <a th:href="@{/leaders}">Leadership meeting</a>
+  <div sec:authorize="hasRole('MANAGER')">
+    <p>
+      <a th:href="@{/leaders}">Leadership meeting</a>
+    </p>
+  </div>
+
   <hr>
 
-  <a th:href="@{/systems}">IT Systems meeting</a>
+  <div sec:authorize="hasRole('ADMIN')">
+    <p>
+      <a th:href="@{/systems}">IT Systems meeting</a>
+    </p>
+  </div>
+
 
 <form action="#" th:action="@{/logout}" method="post">
   <input type="submit" value="Logout" />

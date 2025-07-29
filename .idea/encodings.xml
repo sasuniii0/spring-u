@@ -36,6 +36,9 @@
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/03-02-thymeleaf-demo-employees-update-alternate-solution-post-all-data/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-01-thymeleaf-demo-employees-delete/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-02-thymeleaf-demo-employees-delete-alternate-solution-post-all-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring security/11-spring-boot-spring-mvc-security-jdbc-plain-text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-spring security/demoSecurity/src/main/java" charset="UTF-8" />
   </component>
 </project>

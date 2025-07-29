@@ -40,6 +40,9 @@
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/02-spring-boot-rest-security-basic/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/01-spring-boot-rest-security-default-security/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring security/11-spring-boot-spring-mvc-security-jdbc-plain-text/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/pom.xml" />
       </list>
     </option>
   </component>
