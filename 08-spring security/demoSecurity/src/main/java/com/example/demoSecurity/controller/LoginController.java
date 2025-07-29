@@ -9,4 +9,9 @@ public class LoginController {
     public String loginPage() {
         return "fancy-login";
     }
+
+    @GetMapping("access-denied")
+    public String accessDenied() {
+        return "access-denied"; // This will return the access-denied.html template
+    }
 }

@@ -9,4 +9,14 @@ public class DemoController {
     public String home() {
         return "home"; // This will return the home.html template
     }
+
+    @GetMapping("/leaders")
+    public String leaders() {
+        return "leaders"; // This will return the leaders.html template
+    }
+
+    @GetMapping("/systems")
+    public String systems() {
+        return "systems"; // This will return the systems.html template
+    }
 }
