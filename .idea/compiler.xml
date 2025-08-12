@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="thymeleafdemo (15)" />
+        <module name="aopdemo (4)" />
+        <module name="aopdemo (17)" />
         <module name="validationdemo" />
+        <module name="aopdemo (13)" />
         <module name="cruddemo (1)" />
+        <module name="aopdemo (21)" />
         <module name="cruddemo (22) (com.luv2code)" />
         <module name="thymeleafdemo" />
         <module name="cruddemo (6)" />
@@ -19,12 +23,18 @@
         <module name="cruddemo (9) (com.luv2code)" />
         <module name="thymeleafdemo (10)" />
         <module name="cruddemo (12) (com.luv2code)" />
+        <module name="aopdemo" />
+        <module name="aopdemo (9)" />
         <module name="thymeleafdemo (14)" />
         <module name="cruddemo (15) (com.luv2code)" />
         <module name="cruddemo (18) (com.luv2code)" />
         <module name="thymeleafdemo (16)" />
         <module name="cruddemo (21) (com.luv2code)" />
+        <module name="aopdemo (16)" />
+        <module name="aopdemo (3)" />
+        <module name="aopdemo (12)" />
         <module name="cruddemo (2)" />
+        <module name="aopdemo (20)" />
         <module name="cruddemo (3)" />
         <module name="cruddemo (5) (com.luv2code)" />
         <module name="thymeleafdemo (7)" />
@@ -33,30 +43,44 @@
         <module name="thymeleafdemo (3)" />
         <module name="validationdemo (4)" />
         <module name="cruddemo (2) (com.luv2code)" />
+        <module name="aopdemo (8)" />
         <module name="cruddemo (8) (com.luv2code)" />
         <module name="demoSecurity" />
         <module name="thymeleafdemo (11)" />
         <module name="thymeleafdemo (17)" />
         <module name="cruddemo (13) (com.luv2code)" />
+        <module name="aopdemo (2)" />
         <module name="demosecurity (1) (com.luv2code.springboot)" />
         <module name="cruddemo (16) (com.luv2code)" />
         <module name="cruddemo (10) (com.luv2code)" />
+        <module name="aopdemo (6)" />
+        <module name="aopdemo (19)" />
         <module name="cruddemo (4) (com.luv2code)" />
         <module name="cruddemo (19) (com.luv2code)" />
+        <module name="aopdemo (15)" />
         <module name="cruddemo (7) (com.luv2code)" />
+        <module name="aopdemo (11)" />
         <module name="thymeleafdemo (4)" />
         <module name="cruddemo" />
         <module name="cruddemo (1) (com.luv2code)" />
         <module name="cruddemo (4)" />
         <module name="validationdemo (3)" />
         <module name="cruddemo (8)" />
+        <module name="aopdemo (7)" />
         <module name="thymeleafdemo (8)" />
         <module name="thymeleafdemo (12)" />
+        <module name="thymeleafdemo (18)" />
         <module name="demosecurity (3) (com.luv2code.springboot)" />
+        <module name="aopdemo (1)" />
         <module name="cruddemo (17) (com.luv2code)" />
+        <module name="aopdemo (18)" />
         <module name="cruddemo (3) (com.luv2code)" />
         <module name="cruddemo (6) (com.luv2code)" />
+        <module name="aopdemo (5)" />
         <module name="cruddemo (14) (com.luv2code)" />
+        <module name="aopdemo (14)" />
+        <module name="aopdemo (10)" />
+        <module name="aopdemo (22)" />
         <module name="cruddemo (5)" />
         <module name="thymeleafdemo (5)" />
         <module name="cruddemo (11) (com.luv2code)" />
@@ -73,6 +97,29 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aopdemo" options="-parameters" />
+      <module name="aopdemo (1)" options="-parameters" />
+      <module name="aopdemo (10)" options="-parameters" />
+      <module name="aopdemo (11)" options="-parameters" />
+      <module name="aopdemo (12)" options="-parameters" />
+      <module name="aopdemo (13)" options="-parameters" />
+      <module name="aopdemo (14)" options="-parameters" />
+      <module name="aopdemo (15)" options="-parameters" />
+      <module name="aopdemo (16)" options="-parameters" />
+      <module name="aopdemo (17)" options="-parameters" />
+      <module name="aopdemo (18)" options="-parameters" />
+      <module name="aopdemo (19)" options="-parameters" />
+      <module name="aopdemo (2)" options="-parameters" />
+      <module name="aopdemo (20)" options="-parameters" />
+      <module name="aopdemo (21)" options="-parameters" />
+      <module name="aopdemo (22)" options="-parameters" />
+      <module name="aopdemo (3)" options="-parameters" />
+      <module name="aopdemo (4)" options="-parameters" />
+      <module name="aopdemo (5)" options="-parameters" />
+      <module name="aopdemo (6)" options="-parameters" />
+      <module name="aopdemo (7)" options="-parameters" />
+      <module name="aopdemo (8)" options="-parameters" />
+      <module name="aopdemo (9)" options="-parameters" />
       <module name="cruddemo" options="-parameters" />
       <module name="cruddemo (1)" options="-parameters" />
       <module name="cruddemo (1) (com.luv2code)" options="-parameters" />
@@ -120,6 +167,7 @@
       <module name="thymeleafdemo (15)" options="-parameters" />
       <module name="thymeleafdemo (16)" options="-parameters" />
       <module name="thymeleafdemo (17)" options="-parameters" />
+      <module name="thymeleafdemo (18)" options="-parameters" />
       <module name="thymeleafdemo (2)" options="-parameters" />
       <module name="thymeleafdemo (3)" options="-parameters" />
       <module name="thymeleafdemo (4)" options="-parameters" />

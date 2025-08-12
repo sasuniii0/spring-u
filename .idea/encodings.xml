@@ -63,5 +63,29 @@
     <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/21-jpa-many-to-many-add-more-courses-for-student/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/22-jpa-many-to-many-delete-course/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/23-jpa-many-to-many-delete-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/01-spring-boot-aop-before-advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/02-spring-boot-aop-pointcut-expressions-match-any-add-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/03-spring-boot-aop-pointcut-expressions-match-only-accountdao-add-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/04-spring-boot-aop-pointcut-expressions-match-any-addStar-method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/05-spring-boot-aop-pointcut-expressions-match-any-return-type/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/06-spring-boot-aop-pointcut-expressions-match-method-parameter-types/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/07-spring-boot-aop-pointcut-expressions-match-method-with-account-and-more-params/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/08-spring-boot-aop-pointcut-expressions-match-method-any-params/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/09-spring-boot-aop-pointcut-expressions-match-any-method-in-package/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/10-spring-boot-aop-demo-pointcut-declarations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/11-spring-boot-aop-demo-pointcut-declarations-reuse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/12-spring-boot-aop-demo-pointcut-declarations-for-getter-and-setter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/13-spring-boot-aop-demo-pointcut-declarations-combine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/14-spring-boot-aop-demo-order-aspects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/15-spring-boot-aop-demo-read-joinpoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/16-spring-boot-aop-demo-after-returning-advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/17-spring-boot-aop-demo-after-returning-advice-modify-results/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/18-spring-boot-aop-demo-after-throwing-advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/19-spring-boot-aop-demo-after-advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/20-spring-boot-aop-demo-around-advice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/21-01-spring-boot-aop-demo-around-advice-handle-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/21-02-spring-boot-aop-demo-around-advice-handle-exception-nano-seconds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/22-spring-boot-aop-demo-around-advice-rethrow-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-aop/23-spring-boot-aop-spring-boot-mvc-crud-demo-employees/src/main/java" charset="UTF-8" />
   </component>
 </project>
