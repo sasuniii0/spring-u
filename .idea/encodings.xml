@@ -40,5 +40,28 @@
     <file url="file://$PROJECT_DIR$/08-spring security/12-spring-boot-spring-mvc-security-jdbc-bcrypt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-spring security/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-spring security/demoSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni-create-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/02-jpa-one-to-one-uni-find-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/03-jpa-one-to-one-uni-delete-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/04-jpa-one-to-one-bi-find-instructor-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/05-jpa-one-to-one-bi-delete-instructor-detail-and-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/06-jpa-one-to-one-bi-delete-instructor-detail-only/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/07-jpa-one-to-many-create-instructor-with-courses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/08-jpa-one-to-many-eager-find-instructor-with-courses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/09-jpa-one-to-many-lazy-find-courses-for-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/10-jpa-one-to-many-lazy-find-instructor-with-courses-join-fetch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/11-jpa-one-to-many-update-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/12-jpa-one-to-many-update-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/13-jpa-one-to-many-delete-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/14-jpa-one-to-many-delete-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/15-jpa-one-to-many-uni-create-course-and-reviews/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/16-jpa-one-to-many-uni-retrieve-course-and-reviews/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/17-jpa-one-to-many-uni-delete-course-and-reviews/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/18-jpa-many-to-many-create-course-and-students/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/19-jpa-many-to-many-find-course-and-students/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/20-jpa-many-to-many-find-student-and-courses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/21-jpa-many-to-many-add-more-courses-for-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/22-jpa-many-to-many-delete-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/23-jpa-many-to-many-delete-student/src/main/java" charset="UTF-8" />
   </component>
 </project>
