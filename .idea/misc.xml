@@ -61,11 +61,35 @@
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/08-jpa-one-to-many-eager-find-instructor-with-courses/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/07-jpa-one-to-many-create-instructor-with-courses/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/06-jpa-one-to-one-bi-delete-instructor-detail-only/pom.xml" />
-        <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/05-jpa-one-to-one-bi-delete-instructor-detail-and-instructor/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/04-jpa-one-to-one-bi-find-instructor-detail/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/03-jpa-one-to-one-uni-delete-instructor/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/02-jpa-one-to-one-uni-find-instructor/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni-create-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/05-jpa-one-to-one-bi-delete-instructor-detail-and-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/01-spring-boot-aop-before-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/02-spring-boot-aop-pointcut-expressions-match-any-add-account/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/03-spring-boot-aop-pointcut-expressions-match-only-accountdao-add-account/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/04-spring-boot-aop-pointcut-expressions-match-any-addStar-method/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/05-spring-boot-aop-pointcut-expressions-match-any-return-type/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/06-spring-boot-aop-pointcut-expressions-match-method-parameter-types/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/07-spring-boot-aop-pointcut-expressions-match-method-with-account-and-more-params/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/08-spring-boot-aop-pointcut-expressions-match-method-any-params/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/09-spring-boot-aop-pointcut-expressions-match-any-method-in-package/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/10-spring-boot-aop-demo-pointcut-declarations/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/11-spring-boot-aop-demo-pointcut-declarations-reuse/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/12-spring-boot-aop-demo-pointcut-declarations-for-getter-and-setter/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/13-spring-boot-aop-demo-pointcut-declarations-combine/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/14-spring-boot-aop-demo-order-aspects/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/15-spring-boot-aop-demo-read-joinpoint/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/16-spring-boot-aop-demo-after-returning-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/17-spring-boot-aop-demo-after-returning-advice-modify-results/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/18-spring-boot-aop-demo-after-throwing-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/19-spring-boot-aop-demo-after-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/20-spring-boot-aop-demo-around-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/21-01-spring-boot-aop-demo-around-advice-handle-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/21-02-spring-boot-aop-demo-around-advice-handle-exception-nano-seconds/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/22-spring-boot-aop-demo-around-advice-rethrow-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/23-spring-boot-aop-spring-boot-mvc-crud-demo-employees/pom.xml" />
       </list>
     </option>
   </component>
